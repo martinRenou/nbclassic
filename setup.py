@@ -1,6 +1,6 @@
 import os
 from setuptools import setup, find_packages
-from setupbase import create_cmdclass
+from jupyter_packaging import create_cmdclass
 
 
 NAME = 'nbclassic'
